@@ -1,0 +1,11 @@
+torch-summary
+torch
+torchvision
+torchtext
+transformers
+scikit-learn
+tensorflow
+tensorboardX
+matplotlib
+numpy
+coloredlogs
